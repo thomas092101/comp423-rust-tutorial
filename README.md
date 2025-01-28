@@ -1,1 +1,1 @@
-Created following tutorial located at 
+Created following tutorial located at [Rust Tutorial](https://thomas092101.github.io/comp423-course-notes/tutorials/rust-setup/)
